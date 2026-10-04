@@ -1,5 +1,3 @@
-for i in range(1,15):
-    print("This is loop number: ", i)
-#
-for i in range(1,10, 2):
-    print(i)
+#creating table using for 
+for i in range(1, 20,  1):
+    print(f"{i} * 2 = {i * 2}")
