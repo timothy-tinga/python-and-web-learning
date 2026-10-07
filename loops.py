@@ -18,8 +18,8 @@
 #     print(i)
 
 #WHILE LOOP
-i = 0
-while i <= 15:
-    print("hello world", i)
-    i = i + 3
+# i = 0
+# while i <= 15:
+#     print("hello world", i)
+#     i = i + 3
 
