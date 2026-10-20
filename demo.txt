@@ -1,0 +1,4 @@
+Hello teacher!
+I am learning how to read files using Python.
+This is my very first text file inside VS Code.
+Step by step, I am getting it!
